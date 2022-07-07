@@ -8,6 +8,6 @@
 - 🌱 I’m currently learning Python and Web Development
 - 📫 How to reach me: https://www.instagram.com/shbsvl/
 - 😄 Pronouns: He/Him
-- :page_facing_up: Resume: 
+- :page_facing_up: Resume: https://github.com/Haibo-S/Resume
 - ⚡ Fun fact: It took me a decade to understand the greater(>) and smaller(<) signs.
 
