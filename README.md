@@ -9,5 +9,5 @@
 - 📫 How to reach me: https://www.instagram.com/shbsvl/
 - 😄 Pronouns: He/Him
 - :page_facing_up: Resume: https://github.com/Haibo-S/Resume
-- ⚡ Fun fact: It took me a decade to understand the greater(>) and smaller(<) signs.
+- ⚡ Fun fact: Before becoming a programmer, I have become a successful history nerd! 
 
