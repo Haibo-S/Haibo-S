@@ -2,13 +2,9 @@
 
 Computer Architecture | FPGA | NoC | Systems
 
-## GitHub Stats
-
-![Haibo's GitHub stats](https://YOUR-VERCEL-APP.vercel.app/api?username=Haibo-S&show_icons=true)
-
 ## Most Used Languages
 
-![Top Langs](https://YOUR-VERCEL-APP.vercel.app/api/top-langs/?username=Haibo-S&layout=compact)
+![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Haibo-S&layout=compact)
 
 ## Streak
 
