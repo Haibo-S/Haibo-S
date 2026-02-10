@@ -4,11 +4,11 @@ Computer Architecture | FPGA | NoC | Systems
 
 ## GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=Haibo-S&show_icons=true)
+[![Haibo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haibo-S)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Most Used Languages
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haibo-S&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haibo-S)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Streak
 
