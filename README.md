@@ -2,7 +2,7 @@
 
 I'm Haibo, a 4th-year Software Engineering student at the University of Waterloo.
 
-I'm passionate about **computer architecture, digital design, and systems software**—basically anything close to the hardware/software boundary. I like building performance-oriented systems and understanding how things work end-to-end.
+I'm passionate about **computer architecture, digital design, and systems software**, basically anything close to the hardware/software boundary. I like building performance-oriented systems and understanding how things work end-to-end.
 
 I’ve completed co-op terms at **NVIDIA, Tenstorrent, Huawei Canada, and Untether AI**, working on low-level projects across the stack from **digital design and NoC/interconnects**, to **firmware**, and up through **systems/OS-level work**.
 
